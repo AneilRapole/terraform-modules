@@ -1,4 +1,4 @@
 provider "google" {
-  project = "new-uat"
+  project = "newuat"
   region  = "us-central1"
 }
