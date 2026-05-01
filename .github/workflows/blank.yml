@@ -44,7 +44,7 @@ jobs:
 
     defaults:
       run:
-        working-directory: terraform-modules/environments/uat
+        working-directory: environments/uat
 
     steps:
       - name: Checkout code
